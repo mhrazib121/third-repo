@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(https://nomadparadise.com/wp-content/uploads/2021/04/bangladesh-places-01-1024x683.jpg);
+    background-size: 100%;
+    
+}
+div.main {
+    width: 400px;
+    margin: 50px auto 0px auto;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+div.register{
+    background-color: rgba(0, 0,0, 0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 2px rgba(0, 0,0, 0.3);
+    color: #fff;
+}
+
+
+label{
+    font-family: sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    padding: 20px;
+}
+input#name{
+    margin: 1rem;
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    outline: 0;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: inset 1px 1px 5px rgba(0, 0,0, 0.3);
+}
+input#lang{
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    margin: 1rem;
+}
+input#gen{
+    font-family: sans-serif;
+    font-size: 18px;
+    padding: 20px;
+    margin: 1rem;
+}
+textarea{
+    box-decoration-break: inherit;
+    margin: 1rem;
+}
+
+input#submit{
+    margin: 1rem;
+    width: 100px;
+    padding: 5px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-radius: 3px;
+    background-color: salmon;
+    cursor: pointer;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 5px rgba(0, 0,0, 0.3);
+}
+input#reset{
+    margin: 1rem;
+    width: 100px;
+    padding: 5px;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    border-radius: 3px;
+    background-color: salmon;
+    cursor: pointer;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 1px 1px 5px rgba(0, 0,0, 0.3);
+}
+
