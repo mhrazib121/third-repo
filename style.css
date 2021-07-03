@@ -15,6 +15,9 @@ h2{
     text-align: center;
     padding: 20px;
     font-family: sans-serif;
+    color: red;
+    font-size: 38px;
+    text-decoration: underline wavy white;
 }
 div.register{
     background-color: rgba(0, 0,0, 0.5);
